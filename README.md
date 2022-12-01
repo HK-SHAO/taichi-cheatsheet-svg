@@ -28,3 +28,7 @@
 2. 我将 `taichi-lang-logo.png` 转换成了矢量路径
 3. 手动编辑和整理 SVG 的 XML 代码，为不同按钮加上超链接，链接到  [Taichi 官网文档](https://docs.taichi-lang.org/)
 4. 将 Taichi Lang LOGO 加入超链接，链接到 [Taichi 官网](https://taichi-lang.org/)
+
+## maintain
+
+对于 SVG 的维护，目前并没有脚本自动化解决方案，因此需要手动维护。
