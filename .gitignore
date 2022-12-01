@@ -10,6 +10,7 @@ cheatsheet*.pdf
 *.upa
 
 *.synctex(busy)
+*.synctex.gz
 
 # generated figures
 # ----------------------------------
