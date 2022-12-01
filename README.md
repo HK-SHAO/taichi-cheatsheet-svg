@@ -7,7 +7,7 @@
 
 <div align="center">
 
-![cheatsheet](./svg/cheatsheet.svg)
+![cheatsheet](./svg/cheatsheet.min.svg)
 
 </div>
 
@@ -26,7 +26,7 @@
 - 如何构建 $\TeX$ 版本的 PDF 文件，请查看原仓库
   - https://github.com/taichi-dev/cheatsheet
 
-1. 由于 SVG 嵌入字体的限制，为保证任何情况下字体与原版一致，只好将所有文本转换成了路径，因此要构建 SVG 版本的 Taichi Language Cheatsheet 需要在安装了已有字体的情况下用 illustrator 打开 PDF 并转换为 SVG （字体转换为轮廓，四位数精度）
+1. 由于 SVG 嵌入字体的限制，为保证任何情况下字体与原版一致，只好将所有文本转换成了路径，因此要构建 SVG 版本的 Taichi Language Cheatsheet 需要在安装了已有字体的情况下用 illustrator 打开 PDF 并转换为 SVG （字体转换为轮廓，三位数精度）
 2. 我将 `taichi-lang-logo.png` 转换成了矢量路径
 3. 手动编辑和整理 SVG 的 XML 代码，为不同按钮加上超链接，链接到 [Taichi 官网文档](https://docs.taichi-lang.org/)
 4. 将 Taichi Lang LOGO 加入超链接，链接到 [Taichi 官网](https://taichi-lang.org/)
