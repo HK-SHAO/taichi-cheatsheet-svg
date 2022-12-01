@@ -2,9 +2,6 @@
 
 这是一个 SVG 格式（矢量图）的 Taichi Language Cheatsheet
 ## Preview
-
-<br>
-
 <div align="center">
 
 ![cheatsheet](./svg/cheatsheet.min.svg)
